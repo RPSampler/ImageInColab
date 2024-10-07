@@ -3,9 +3,15 @@
 LEACH
 ![image](https://github.com/user-attachments/assets/b6dc9bac-27f6-45f0-8ee7-50398079bb0c)
 
+LEACH-C
+![image](https://github.com/user-attachments/assets/45ac36d3-7d12-44c9-adff-78655daa81a5)
 
 
-Comparison
+SACHE
+![image](https://github.com/user-attachments/assets/bc5a0269-57ad-4854-a858-12fabc3458b1)
+
+
+## Comparison
 ![image](https://github.com/user-attachments/assets/102c8237-333b-421e-9cb6-a5740992ce58)
 
 
