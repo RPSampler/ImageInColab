@@ -8,7 +8,8 @@ LEACH-C
 
 
 SACHE
-![image](https://github.com/user-attachments/assets/bc5a0269-57ad-4854-a858-12fabc3458b1)
+![image](https://github.com/user-attachments/assets/3403b54e-2b67-44d8-87f5-f1806b9bd8d1)
+
 
 
 ## Comparison
