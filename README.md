@@ -1,3 +1,20 @@
+## Uniform selection of nodes for CH
+
+LEACH
+![image](https://github.com/user-attachments/assets/b6dc9bac-27f6-45f0-8ee7-50398079bb0c)
+
+
+
+Comparison
+![image](https://github.com/user-attachments/assets/102c8237-333b-421e-9cb6-a5740992ce58)
+
+
+LEACH-C
+
+![image](https://github.com/user-attachments/assets/347b5543-7926-40a3-a982-5e4ea66e7b6e)
+
+
+
 # ImageInColab
 
 1
@@ -32,4 +49,15 @@
 7: LEACH with 10 trials
 
 ![image](https://github.com/user-attachments/assets/d07e3692-bf07-40e0-bb43-d9a9f814f5e8)
+
+
+
+LEACH-C dynamic
+
+![image](https://github.com/user-attachments/assets/208227df-ea03-40db-a70b-6eafad64f3bc)
+
+
+![image](https://github.com/user-attachments/assets/468bf66f-2e68-43e5-8d37-d1ef7ec7fa62)
+
+![image](https://github.com/user-attachments/assets/e92fc9a7-54c8-44c8-b8a5-be3fbe4df2f9)
 
